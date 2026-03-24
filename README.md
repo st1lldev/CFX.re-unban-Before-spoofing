@@ -38,7 +38,7 @@ To ensure a successful unban and avoid being flagged again, follow these exact s
 
 ## 📞 Support & Community
 For the latest updates, spoofers, and unban methods, join us:
-* **Discord:** [Join ST1LLDEV Community](https://dc.gg/yns)
+* **Discord:** [Join YN Services Community](https://dc.gg/yns)
 
 ---
 <p align="center">
